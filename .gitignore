@@ -1,4 +1,6 @@
 # elf file
+acl/acl_update
+acl/acl_view
 altio/demo_sigio
 altio/epoll_input
 altio/poll_pipes
